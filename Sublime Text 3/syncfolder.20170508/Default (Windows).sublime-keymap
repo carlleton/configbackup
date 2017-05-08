@@ -1,0 +1,6 @@
+[
+	{"keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"}},
+	//diffy
+	{ "keys": ["ctrl+k", "ctrl+d"], "command": "diffy" },
+	{ "keys": ["ctrl+k", "ctrl+c"], "command": "diffy", "args": {"action": "clear"} }
+]
